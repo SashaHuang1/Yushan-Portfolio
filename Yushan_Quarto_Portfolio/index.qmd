@@ -1,0 +1,49 @@
+---
+title: "Home"
+page-layout: full
+---
+
+::: {.container}
+::: {.hero}
+::: {}
+<div class="eyebrow">Marketing × Analytics × Creativity</div>
+
+# Hi, I'm <em>Yushan.</em>
+
+**Digital Marketer & Data Enthusiast**
+
+I turn messy data into meaningful insights and creative ideas into marketing strategies. I work with R, SQL, and analytics tools—and occasionally convince spreadsheets to cooperate.
+
+<button id="unlock-skills" class="cta" type="button" aria-expanded="false" aria-controls="skill-reveal">Hire me to unlock my skills 🔓</button>
+<a class="secondary-link" href="projects.qmd">Explore my work →</a>
+
+<div id="skill-reveal" class="skill-reveal" aria-live="polite"><span class="tag">Marketing Strategy</span><span class="tag">R</span><span class="tag">SQL</span><span class="tag">GA4</span><span class="tag">Qualtrics</span><span class="tag">Shopify</span><p><a href="resume.qmd">View my resume →</a></p></div>
+:::
+::: {.portrait-wrap}
+<div class="hero-orbit">Data × Imagination</div>
+![](assets/profile.png){fig-alt="Portrait of Yushan Huang"}
+<div class="hero-orbit bottom">Strategy in motion</div>
+:::
+:::
+
+## A little about me
+
+With a background in journalism, communication, and marketing across China, South Korea, and the United States, I like finding the sweet spot between creativity and evidence. I'm pursuing an MS in Digital Marketing at Cal Poly Pomona and support the university's MHR department with LinkedIn and website content.
+
+<div class="section-label">Selected work</div>
+
+::: {.project-grid}
+::: {.project-card .reveal-on-scroll}
+### AI-Assisted Evidence Synthesis
+A culminating experience project exploring how AI can support marketing meta-analysis and evidence-based decisions.
+
+[Explore the project](projects/ai-meta-analysis.qmd)
+:::
+::: {.project-card .reveal-on-scroll}
+### CPP Farm Store × Shopify
+A hands-on e-commerce build and marketing recommendations for the Cal Poly Pomona Farm Store.
+
+[Explore the project](projects/farm-store.qmd)
+:::
+:::
+:::

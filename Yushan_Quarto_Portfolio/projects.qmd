@@ -1,0 +1,44 @@
+---
+title: "Portfolio"
+---
+
+# Selected projects
+
+Explore strategy-led digital marketing projects and research-focused marketing analytics work. The descriptions distinguish completed class deliverables from work still being developed.
+
+<div class="filter-bar" aria-label="Project category filters"><button class="filter-btn active" data-filter="all" type="button">All projects</button><button class="filter-btn" data-filter="digital" type="button">Digital Marketing</button><button class="filter-btn" data-filter="analytics" type="button">Marketing Analytics</button></div>
+
+::: {.project-grid}
+::: {.project-card data-category="analytics"}
+<div class="section-label">Marketing Analytics</div>
+### AI-Assisted Evidence Synthesis
+
+CEP · AI-supported coding and meta-analysis for marketing decisions.
+
+[Read case study](projects/ai-meta-analysis.qmd)
+:::
+::: {.project-card data-category="digital"}
+<div class="section-label">Digital Marketing</div>
+### CPP Farm Store — Shopify
+
+Shopify store-building exercise and practical marketing recommendations.
+
+[Read case study](projects/farm-store.qmd)
+:::
+::: {.project-card data-category="digital"}
+<div class="section-label">Digital Marketing</div>
+### Wellness Ranch Equine Assisted Therapy
+
+Digital marketing plan, market segmentation, SWOT, and strategic recommendations for a nonprofit.
+
+[Read case study](projects/wellness-ranch.qmd)
+:::
+::: {.project-card data-category="analytics"}
+<div class="section-label">Marketing Analytics</div>
+### Website Traffic with GA4
+
+Planned analysis of traffic acquisition and engagement after the portfolio goes live.
+
+[Read project plan](projects/ga4.qmd)
+:::
+:::

@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - assets/**
+    - certificates/**
+    - assets/Yushan_Huang_Resume.pdf
+website:
+  title: "Yushan Huang"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Portfolio
+      - href: dashboard.qmd
+        text: Dashboard
+      - href: skills.qmd
+        text: Skills
+      - href: resume.qmd
+        text: Resume
+    right:
+      - href: css-scss.qmd
+        text: Design Notes
+      - href: listings.qmd
+        text: Listings
+  page-footer:
+    center: "© 2026 Yushan Huang · Built with Quarto"
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    include-after-body: interactions.html
+execute:
+  echo: false

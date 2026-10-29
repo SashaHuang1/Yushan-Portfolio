@@ -1,0 +1,17 @@
+---
+title: "Quarto Listings"
+listing:
+  contents: "projects/*.qmd"
+  type: grid
+  sort: "title asc"
+  fields: [title, description, date]
+  sort-ui: false
+  filter-ui: true
+---
+
+# Project listings
+
+Quarto Listings automatically gathers project pages from a folder and displays them as a searchable/filterable collection. Adding a new `.qmd` case study to the `projects/` folder updates this listing when the site is rendered.
+
+::: {#listing}
+:::

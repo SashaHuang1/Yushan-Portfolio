@@ -1,0 +1,31 @@
+---
+title: "AI-Assisted Evidence Synthesis for Marketing Decisions"
+description: "A culminating experience project examining the use of AI-assisted evidence synthesis and meta-analysis in marketing research."
+date: "2026-10-28"
+---
+
+[← Back to Portfolio](../projects.qmd)
+
+# AI-Assisted Evidence Synthesis for Marketing Decisions
+
+**Marketing Analytics · MSDM CEP**
+
+## Overview
+
+A culminating experience project examining the use of AI-assisted evidence synthesis and meta-analysis in marketing research.
+
+## Managerial challenge
+
+Marketing decision-makers need timely, trustworthy synthesis across studies rather than relying on one finding.
+
+## Approach and methods
+
+Study screening, structured effect coding, human/AI coding comparisons, and quantitative meta-analysis when eligible effect-size data are available.
+
+## Outcomes and status
+
+The project is in progress. Final effect estimates and validation results will be added after verification.
+
+## My contribution
+
+This was a coursework or team project. Specific individual contributions and final results will be clarified before public publication.

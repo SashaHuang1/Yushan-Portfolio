@@ -1,0 +1,18 @@
+---
+title: "Resume"
+page-layout: full
+---
+
+::: {.container .resume-page}
+<div class="eyebrow">EXPERIENCE / EDUCATION / SKILLS</div>
+
+# Resume
+
+A concise overview of my work across digital marketing, research, and analytics. Want the full version? Download the PDF below.
+
+<div class="resume-actions"><a class="cta" href="assets/Yushan_Huang_Resume.pdf" download="Yushan_Huang_Resume.pdf">Download my resume ↓</a><a class="secondary-link" href="assets/Yushan_Huang_Resume.pdf" target="_blank" rel="noopener">Open PDF in a new tab ↗</a></div>
+
+<iframe class="resume-embed" src="assets/Yushan_Huang_Resume.pdf#view=FitH" title="Yushan Huang resume PDF" loading="lazy"></iframe>
+
+If the preview is unavailable in your browser, [open the PDF directly](assets/Yushan_Huang_Resume.pdf).
+:::

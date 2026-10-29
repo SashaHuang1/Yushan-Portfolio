@@ -1,0 +1,15 @@
+---
+title: "M10 Hands-on Practice — Website Submission"
+author: "Yushan Huang"
+format: html
+---
+
+## Published Quarto Website
+
+[Visit my portfolio website](https://REPLACE-WITH-YOUR-GITHUB-PAGES-URL)
+
+## GitHub Repository
+
+[View all source files](https://github.com/REPLACE-WITH-YOUR-REPOSITORY)
+
+**Before submitting:** replace both placeholder URLs with working links after deployment.
